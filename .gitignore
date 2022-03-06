@@ -1,0 +1,7 @@
+# 项目排除路径
+/out/
+/SpringMVC01-serlvet/target/
+/SpringMVC02-hellomvc/target/
+/SpringMVC03-Annotation/target/
+/SpringMVC04-Controller/target/
+/SpringMVC05-Json/target/
